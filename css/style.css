@@ -208,9 +208,6 @@ html {
     
 }
 
-/* .portfolio-img:hover .overlay{
-    width: 100%;
-} */
 
 .portfolio-img:hover .hover-box{
     opacity: 0.8;
